@@ -17,3 +17,12 @@ body,
     margin-top: 15px;
     margin-bottom: 15px;
 }
+
+.zk-table {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.el-cascader-menu {
+    height: 300px;
+  }
